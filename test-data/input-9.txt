@@ -1,0 +1,3 @@
+GT4500,1,1,2,0 
+TORPEDO,SINGLE #megprobalja az elsot, 100% hibarata
+TORPEDO,SINGLE #masodikbol, hiszen az elobb az elsot probalta
